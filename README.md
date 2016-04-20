@@ -3,7 +3,7 @@ Play with it to be familliar with bootstrap button [Demo](http://yavodiby.github
 
 I just presented the overview of Bootstrap Button  
 
-**Default Buttons**
+**Default Buttons** :
 Bootstrap Buttons Package has seven types of Buttons by default in bootstrap css file with class name like .btn
 
     .btn btn-default( it give a default button without any indication visual effect)
@@ -22,7 +22,7 @@ Bootstrap Buttons Package has seven types of Buttons by default in bootstrap css
     <div class="btn btn-danger">Danger Button</div>
     <div class="btn btn-link">Link</div>
  
-**Button Sizes**
+**Button Sizes** :
  We have four button Sizes
 
     .btn btn-lg
@@ -35,14 +35,14 @@ Bootstrap Buttons Package has seven types of Buttons by default in bootstrap css
     <div class="btn btn-info btn-sm">Info Button</div>
     <div class="btn btn-warning btn-xs">Warning Button</div>
 
-**Buttons States**
+**Buttons States** :
 the Active mode button display pressed mode and Disabled button display unclickable
  
  
     <div class="btn btn-danger btn-lg active">Active Button</div>
     <div class="btn btn-success btn-lg disabled">Disabled Button</div>
 
-**Buttons With Icons**
+**Buttons With Icons** :
 Bootstrap Provides 260 Glyphicons i  just used few of icons with buttons
 
 	
